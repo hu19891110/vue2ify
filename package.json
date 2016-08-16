@@ -1,0 +1,26 @@
+{
+  "name": "vue2ify",
+  "version": "0.0.0",
+  "description": "exports vueify@9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undoZen/vue2ify.git"
+  },
+  "keywords": [
+    "vue",
+    "vueify"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/vue2ify/issues"
+  },
+  "homepage": "https://github.com/undoZen/vue2ify#readme",
+  "dependencies": {
+    "vueify": "^9.2.4"
+  }
+}
